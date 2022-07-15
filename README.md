@@ -1,4 +1,4 @@
-# Gateway LoRa - Microcontrolador ESPTTGO v1
+# NODO LoRa - Microcontrolador ESPTTGO v1
 
 > Dispositivo disponible en: [CRCibernetica](https://www.crcibernetica.com/ttgo-esp32-with-lora-and-oled-display-us915/) - Un nodo de sensado de enlace simple privada.
 
